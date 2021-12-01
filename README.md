@@ -5,4 +5,4 @@ Basic tools automated
 
 ### Functionalities
 
-IP identification, cookies
+IP identification, cookies, advance setting for each tool
