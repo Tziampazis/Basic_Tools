@@ -8,4 +8,5 @@ Basic tools automated
 
 ### Functionalities
 
-IP identification, cookies, advance setting for each tool
+* IP identification, cookies, advance setting for each tool
+* Caught errors
